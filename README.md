@@ -6,22 +6,13 @@ Com uma base sólida que vai do suporte físico ao desenvolvimento de software, 
 
 ---
 
-## 🛠️ Sobre Mim & Destaques
+## 🛠️ Sobre Mim & Hobbies
 
-*   🎓 **Acadêmico:** Graduando em Ciência da Computação pela **USP (Universidade de São Paulo)**.
-*   🔌 **Bagagem Técnica:** Técnico em Suporte e Manutenção em TI pela **ETEC**, o que me deu uma visão prática incrível de infraestrutura, hardware e resolução de problemas.
-*   🐧 **Daily Driver:** Usuário orgulhoso de **Linux** no dia a dia.
-*   🧠 **Curiosidade:** Adoro o contraste de programar tanto em **Assembly** (controlando o hardware diretamente) quanto em **Haskell** (pura matemática e programação funcional).
-  
----
-
-## 🎨 Além do Código (Hobbies & Paixões)
-
-*   🎸 **Música no Core:** Sou apaixonado por **violão clássico**. Adoro a complexidade e a beleza das composições clássicas, e, claro, no meu repertório **não pode faltar um bom choro** para dar aquela ginga brasileira nas cordas.
-*   🎮 **Gamer nas Horas Vagas:**
-    *   **TLOU:** Amo narrativas cinematográficas e fui profundamente impactado pela história e direção de arte de The Last of Us.
-    *   **Minecraft:** Curto muito a liberdade criativa e as possibilidades de engenharia (alô, redstone!) que o jogo oferece.
-    *   **CS (Counter-Strike):** Nas horas vagas, um pouco de competição e trabalho em equipe no CS não faz mal a ninguém.
+*   🎓 Graduando em Ciência da Computação pela **USP**.
+*   🔌 Técnico em Suporte e Manutenção em TI pela **ETEC** (pé na estrada com infraestrutura e hardware).
+*   🧠 Curto o contraste de programar tanto em **Assembly** quanto em **Haskell** no meu querido **Linux**.
+*   🎸 No tempo livre, toco **violão** (não pode faltar um bom choro!).
+*   🎮 Gamer nas horas vagas (**TLOU** pela história, **Minecraft** pela engenharia/redstone e **CS** pelo competitivo).
 
 ---
 
